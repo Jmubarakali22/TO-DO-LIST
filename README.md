@@ -1,5 +1,14 @@
-# TO-DO-LIST
-1.Creating a Todo list using HTMl,CSS 
-2.And i used Javascript to make my Todo list responsible
-3.In this Todo list project we can add and delete task 
-4.We can mark the task if it is done
+# Simple To-Do List
+
+A basic web application for managing your to-do list. Add, remove, and mark tasks as done with ease.
+
+## Features
+
+- Add new tasks to your to-do list.
+- Remove tasks that have been completed or are no longer needed.
+- User-friendly interface.
+
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
